@@ -30,7 +30,7 @@
 dotnet publish -c Release -r win-x64 --self-contained false
 
 # 或使用提供的批处理脚本
-publish_en.bat
+publish.bat
 ```
 
 ## 注意事项
