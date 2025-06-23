@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>微信多开工具</Title>
+    <Description>一个简单的微信多开工具，允许用户在同一台电脑上同时登录多个微信账号</Description>
+    <Authors>WeChatMultipleInstances</Authors>
+    <Company>WeChatMultipleInstances</Company>
+    <Product>微信多开工具</Product>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+</Project>
